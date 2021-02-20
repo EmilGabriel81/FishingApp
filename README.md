@@ -34,3 +34,6 @@
 ![prt05](https://user-images.githubusercontent.com/72876989/108594678-14fe0080-7384-11eb-9b9f-8bb3b7efafe7.jpg)
 
 5.View reports
+
+
+## Pm me for any technical related questions that you may have regarding the implementation
