@@ -3,7 +3,7 @@
 ## Administrative Application
 
 
-Options available:
+### Options available:
  - Add products to an inventory
  - save/export inventory to a file
  - load an inventory from a file containing POJO(src/inv01.txt)
