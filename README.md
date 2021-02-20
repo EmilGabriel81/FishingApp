@@ -36,4 +36,4 @@
 5.View reports
 
 
-## Pm me for any technical related questions that you may have regarding the implementation
+## Pm me for any technical related questions, that you may have, regarding the implementation
