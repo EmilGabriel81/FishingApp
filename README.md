@@ -1,6 +1,6 @@
 # FishingApp
 
-## Administrative App
+## Administrative Application
 
 
 Options available:
