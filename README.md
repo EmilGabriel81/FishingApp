@@ -36,4 +36,4 @@
 5.View reports
 
 
-## Pm me for any technical related questions, that you may have, regarding the implementation
+## Have some questions or want to give a feedback? You can send me an email at emilgabriel@gmail.com
